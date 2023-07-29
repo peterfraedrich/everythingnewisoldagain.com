@@ -1,0 +1,34 @@
+body {
+    margin: 0px;
+    border: 0px;
+    padding: 0px;
+
+}
+
+.t1 {
+    font-family: 'Instrument Sans', Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: #FFF;
+    font-size: 4em;
+    font-weight: 600;
+}
+
+.t2 {
+    font-family: 'Instrument Sans',
+        Impact,
+        Haettenschweiler,
+        'Arial Narrow Bold',
+        sans-serif;
+    color: #dcf3ff;
+    font-size: 2em;
+}
+
+.bg {
+    width: 100vw;
+    height: 100vh;
+    background-color: #22B573;
+}
+
+.mainlogo {
+    height: auto;
+    width: 500px;
+}
